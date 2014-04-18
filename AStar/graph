@@ -1,0 +1,27 @@
+S 9
+A 9
+B 3
+C 2
+D 6
+E 5
+F 2
+J 1
+G1 0
+G2 0
+
+S A 2
+S B 7
+S D 5
+A B 4
+B C 3
+B G1 9
+C S 1
+C J 5
+C F 2
+D S 8
+D C 3
+D E 3
+E G2 7
+F D 1
+F G2 4
+J G1 3
